@@ -20,7 +20,7 @@
 - [Visual Question Answering with Evaluation](VQA/vqa.ipynb)
 
 ## Directories
-- Scene Graph Generation and Enrichment: [SSG](SGG)
+- Scene Graph Generation and Enrichment: [SSG](SSG)
 - Visual Question Answering: [VQA](VQA) 
 - Generated scene graphs of all images (in [Eval_IO/vg/0_images](Eval_IO/vg/0_images)) in the dataset are saved to [Eval_IO/vg/1_pred_scene_graphs](Eval_IO/vg/1_pred_scene_graphs) 
 - Enriched scene graphs are saved to [Eval_IO/vg/2_enriched_scene_graphs](Eval_IO/vg/2_enriched_scene_graphs)
