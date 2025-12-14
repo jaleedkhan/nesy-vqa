@@ -1,0 +1,8 @@
+04/28/2023 09:56:52 AM: [ Total number of labels 3295 ]
+04/28/2023 09:56:52 AM: [ Total number of relations 693 ]
+04/28/2023 09:56:55 AM: [ loading questions from /home/jaleed/Jaleed/Graphhopper/Graph-Hopper/codes/preprocessing/scenegraphs/test.txt ]
+04/28/2023 09:56:55 AM: [ total number of questions: 11 for test ]
+04/28/2023 09:56:55 AM: [ Total number of graphs in index 5 ]
+04/28/2023 09:56:55 AM: [ Total number of graphs found in folder 5 ]
+04/28/2023 09:56:55 AM: [ total graphs 5 ]
+04/28/2023 09:56:55 AM: [ Test: Loading model from /home/jaleed/Jaleed/Graphhopper/Graph-Hopper/output/run/d3ba_8_0.2_20_0.95/model/model.pth ]

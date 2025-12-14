@@ -1,0 +1,283 @@
+498069	18503714	Is the crate in the top part or in the bottom?	bottom
+498069	18503935	Are there chairs that are red in the picture?	no
+498069	18503733	Is the crate to the left of the open box?	no
+498069	18503715	Does that crate have gray color?	yes
+498069	18503803	Are there both a chair and a window in the image?	yes
+498069	18503993	Are there both windows and doors in this photo?	yes
+498069	18503666	Are there any cabinets or bowls in the image?	no
+498069	18503963	Are there pizzas or glasses in the image?	no
+498069	18503669	Are the white paper towels in the top part or in the bottom?	bottom
+498069	18503921	Which side of the image is the chair on?	right
+498069	18503796	Are there both windows and doors in this image?	yes
+498069	18503830	Does the mailbox to the left of the crate look metallic and silver?	no
+498069	18503776	Is the white box to the right of the crate the chair is to the right of?	no
+498069	18503750	Is the open box in the top part or in the bottom of the picture?	bottom
+498069	18503890	Are there both chandeliers and umbrellas in this picture?	no
+2331963	17197213	What color is the helmet in the middle of the image?	light blue
+2331963	17197502	What's the umpire doing?	bending
+2331963	17197228	On which side is the catcher?	left
+2331963	17197530	Do you see either any aluminum cans or bats?	yes
+2331963	17197503	Who in the image is bending?	umpire
+2331963	17197500	What is that umpire doing?	bending
+2331963	17197377	What is the batter wearing?	uniform
+2331963	17197317	Which color is the fence on the left?	gray
+2331963	17197242	Are there any catchers to the right of the batter that is wearing a uniform?	no
+2331963	17197474	Are there both cones and umbrellas in the image?	no
+2331963	17197300	Is the gray fence metallic and light?	yes
+2331963	17197446	Is the crate red?	yes
+2331963	17197440	Are there umbrellas to the right of the crate?	yes
+2331963	17197372	Who is wearing a uniform?	batter
+2331963	17197453	Are there any crates to the right of the person that is bending?	yes
+2378721	12578099	What is the color of the lamp the pavement is below?	silver
+2378721	12578092	Do you see any lamp that is on?	no
+2378721	12578095	Is the silver lamp off or on?	off
+2378721	12578048	Which kind of vehicle is in front of the buildings?	train
+2378721	12578044	What is in front of the buildings that look red?	train
+2378721	12577931	Where was the picture taken?	pavement
+2378721	12577932	Which place is it?	pavement
+2378721	12577983	Are there both doors and windows in the photo?	no
+2378721	12578050	What is the train in front of?	buildings
+2378721	12577963	Which kind of vehicle are the buildings behind of?	train
+2378721	12578004	What is the vehicle called?	train
+2378721	12578009	What is the vehicle that is blue?	train
+2378721	12578060	Are there any trains near the pavement?	yes
+2378721	12577973	Are the wires thin?	no
+2378721	12578079	Is the silver lamp on the left side of the picture?	yes
+2378721	12578045	What is in front of the buildings?	train
+2378721	12578035	Is there a train beside the pavement?	yes
+2378721	12577949	Are the buildings red?	yes
+2378721	12577945	Is the gray pavement below the silver lamp?	yes
+2353384	03609468	Who in the scene is standing?	player
+2353384	03609527	Which side of the picture is the spectator on?	left
+2353384	03609453	What color is the shirt?	red
+2353384	03609500	Who is dressed in white?	guy
+2353384	03609435	Are both the shirt and the wall the same color?	yes
+2353384	03609482	Is the player to the right of a guy?	no
+2353384	03609448	Does the ball have a different color than the outfit?	yes
+2353384	03609495	Are there any women?	no
+2353384	03609499	Is the guy in the bottom part or in the top of the picture?	top
+2353384	03609515	What is wearing the outfit?	uniform
+2353384	03609516	What is the blue uniform wearing?	outfit
+2353384	03609517	Is the blue uniform wearing an outfit?	yes
+2353384	03609513	What is the color of the uniform that wears an outfit?	blue
+2353384	03609514	What is wearing an outfit?	uniform
+2353384	03609615	Is the man holding a racket?	no
+2353384	03609613	What is the man holding?	ball
+2343920	041047034	What is the animal on the dried grass called?	zebra
+2343920	041047023	Which animal is not a baby, the bull or the zebra?	bull
+2343920	041047024	What is the name of the animal that is not a baby?	bull
+2343920	041046955	Are all the animals of the same species?	no
+2343920	041047073	What animal is white?	zebra
+2343920	041047079	Which kind of animal is not white?	bull
+2413023	10227197	Is the bus to the left or to the right of the house next to the tree?	left
+2413023	10227060	What are the vehicles that are to the left of the bus?	cars
+2413023	10227062	What vehicles are to the left of the bus?	cars
+2413023	10227130	What is the street made of?	concrete
+2413023	10227036	How is the weather?	cloudless
+2413023	10227034	Which place is it?	street
+2413023	10227211	On which side is the house, the left or the right?	right
+2413023	10227149	The car to the right of the other cars is what color?	black
+2413023	10227045	Is the color of the decoration different than the color of the sky?	yes
+2413023	10227153	What type of vehicle is to the left of the vehicle the house is to the right of?	car
+2413023	10227155	Which kind of vehicle is to the left of the bus?	car
+2337304	01520685	What place is pictured, a beach or a field?	field
+2337304	01520683	Which place is it?	field
+2337304	01520784	Is the helmet silver?	no
+2337304	01520777	Is the helmet in the bottom part or in the top of the picture?	bottom
+2337304	01520820	Who is throwing the baseball?	man
+2337304	01520757	Who is wearing the helmet?	man
+2337304	01520811	Where is the umpire standing on?	grass
+2337304	01520700	Do you see any grass in the photo that is not brown?	yes
+2337304	01520709	Are there both sand and grass in the picture?	yes
+2337304	01520809	Who is standing on the grass that looks green?	umpire
+2337304	01520717	Do you see both sand and grass?	yes
+2337304	01520805	Which side of the image is the umpire on?	left
+2409544	07749496	Does the frisbee to the right of the dog appear to be red?	yes
+2409544	07749485	What color is the frisbee the man is holding?	red
+2409544	07749685	Is the dog in front of a fence?	no
+2409544	07749704	Is the little dog catching a ball?	no
+2409544	07749471	Is the mat orange or gray?	gray
+2409544	07749670	Who is the dog in front of?	man
+409544	07749501	What is on the gray mat?	frisbee
+2409544	07749502	What is on the mat?	frisbee
+2409544	07749418	Who is wearing a shirt?	man
+2409544	07749393	What is common to the carpet and the shirt?	color
+2409544	07749403	Are there frisbees or tennis balls in the image?	yes
+2409544	07749663	What animal is in front of the person that holds the frisbee?	dog
+2409544	07749575	Is the dog with the frisbee large and brown?	no
+2409544	07749411	Do you see any frisbees that are not white?	yes
+2409544	07749444	Is the person behind the dog holding the frisbee in the top of the picture?	yes
+2409544	07749442	What is the man holding?	frisbee
+2409544	07749448	Who is wearing the sneakers?	man
+2409544	07749452	What is the animal that the man is behind of called?	dog
+2409544	07749453	What animal is the man behind of?	dog
+2409544	07749489	Are there either red garlands or frisbees?	yes
+2409544	07749667	What is the animal in front of the person that is throwing the frisbee?	dog
+2346986	15860548	Is the door open or closed?	closed
+2346986	15860514	Do you see a mirror to the left of the ladder?	yes
+2346986	15860512	Is the mirror that is to the left of the ladder gray or red?	gray
+2346986	15860459	Is the ladder to the right of a picture?	yes
+2346986	15860447	Are there either any elbow pads or coins?	no
+2367567	05314013	Is there either any white train or truck?	no
+2367567	05314022	Is this a white train?	no
+2367567	05313924	Is it clear?	yes
+2367567	05313940	Is the sky clear?	yes
+285913	03541119	Which color does the shirt he is wearing have?	orange
+285913	03541103	Is the color of the ocean different than the sky?	yes
+285913	03541161	Is the man holding scissors?	no
+285913	03541165	Is the man wearing a hat?	no
+285913	03541159	What is the man holding?	ropes
+285913	03541153	Who is wearing the shorts?	man
+285913	03541155	Is the man wearing boots?	no
+285913	03541158	The man is holding what?	ropes
+497937	00650012	What kind of furniture is to the left of the ball?	entertainment center
+497937	00650124	What is the cat on?	chair
+497937	00649816	Do the mirror and the vase have a different colors?	yes
+497937	00650069	Are there either orange tables or cups in this scene?	yes
+497937	00649843	The telephone is what color?	orange
+497937	00650080	What color is the table by the chair, orange or gray?	orange
+497937	00649986	Do you see pillows to the left of the telephone?	no
+497937	00650025	Do you see white surfboards or mirrors?	yes
+497937	00649925	Is there a speaker in the image?	yes
+497937	00650095	On which side of the picture is the cat?	right
+497937	00649875	Which kind of device is right of the curtains?	phone
+497937	00649836	Which side of the image is the telephone on?	left
+497937	00650042	What color is the mirror in the top of the image?	white
+497937	00650121	What animal is on the chair on the right side of the picture?	cat
+497937	00649917	Does the vase have white color?	no
+497937	00649898	Which kind of furniture is not brown?	entertainment center
+497937	00649897	What kind of furniture in the image is not brown?	entertainment center
+497937	00649895	Which type of furniture is not brown, the chair or the entertainment center?	entertainment center
+497937	00650055	Do you see any orange table or chair?	yes
+497937	00650007	Which kind of furniture is to the right of the vase?	entertainment center
+1592829	00627686	Is the camera to the right or to the left of the man on the right?	left
+1592829	00627869	What kind of drink is in the cup?	soft drink
+1592829	00627867	How is the drink in the cup to the right of the woman called?	soft drink
+1592829	00627865	What's in the cup?	soft drink
+1592829	00627864	What is in the cup to the left of the man?	soft drink
+1592829	00627747	Are there both a plate and a fork in this scene?	no
+1592829	00627624	Is the old woman to the left or to the right of the man who is wearing a cap?	left
+1592829	00627877	What is the drink to the left of the man that is wearing a cap?	soft drink
+1592829	00627826	Do you see any cups or plates in the photograph?	yes
+1592829	00627820	What is the man to the right of the camera wearing?	shirt
+1592829	00627777	Is the napkin black?	yes
+1592829	00627774	Is the napkin in the bottom part of the image?	yes
+1592829	00627549	Is the shirt different in color than the napkin?	no
+1592829	00627631	Is there a camera or a television in the image?	yes
+1592829	00627765	Are there any plates to the right of the old woman?	yes
+1592829	00627912	Is the man that is to the right of the woman wearing a cap?	yes
+1592829	00627911	What is the man to the right of the woman wearing?	cap
+1592829	00627757	Is the white plate in the bottom of the image?	yes
+1592829	00627893	What kind of clothing is not black?	cap
+1592829	00627896	Is the color of the shirt black?	yes
+1592829	00627895	Which kind of clothing is not black?	cap
+1592829	00627571	Do you see any old women or men?	yes
+1592829	00627842	Is the cup to the right of the man that is wearing a shirt?	no
+1592829	00627790	Is the napkin to the left or to the right of the old woman?	right
+1592829	00627619	Is the old woman to the right or to the left of the cup?	left
+1592829	00627909	Who is wearing the cap?	man
+1592829	00627646	Is the black device in the top or in the bottom part of the photo?	top
+2400603	09612884	Is there a fence near the building that is not dark colored?	no
+2400603	09612953	Are the jeans black or blue?	blue
+2400603	09612804	Are there trains in this image?	no
+2400603	09613059	What is the color of the purse that the woman wears?	brown
+2400603	09613054	In which part of the image is the brown bag, the bottom or the top?	bottom
+2400603	09612875	What is the name of the vehicle below the sky?	bus
+2400603	09612936	What is parked on the road near the sidewalk?	bus
+2400603	09612937	What is the vehicle that is parked on the road the sidewalk is next to?	bus
+2400603	09612810	Are there passengers in the bus that is shown in the picture?	yes
+2400603	09612990	Are there any flags or umbrellas that are black?	yes
+2400603	09612865	Are there any buses in this image that are not red?	no
+2400603	09612970	What color does the coat the woman is with have?	brown
+2400603	09613171	Is the woman to the left of the car?	yes
+2400603	09613104	Is the hair both blond and long?	yes
+2400603	09613003	On which side of the picture is the black flag?	left
+2400603	09613008	Is the flag red?	no
+2400603	09612847	Which kind of vehicle is not red?	car
+2400603	09612842	What is the vehicle that is red?	bus
+2417517	05807811	Are there trucks or buses in the image?	yes
+2417517	05807754	Is the umbrella in the bottom part of the image?	no
+2417517	05807709	Are there any fire hydrants or umbrellas?	yes
+2417517	05807732	How large is the umbrella on the left?	large
+2417517	05807896	Do you think the car is white?	no
+2417517	05807884	On which side is the car?	right
+2417517	05807924	Is the car to the left or to the right of the vehicle that is orange?	right
+2417517	05807787	Do you see either any books or umbrellas that are open?	yes
+2417517	05807775	Is the umbrella in the top of the photo?	yes
+2417517	05807779	How big is the umbrella on the right of the picture?	large
+2365643	16769374	Is it an indoors or outdoors scene?	outdoors
+2411654	1034143	Which place is it?	church
+2411654	1034160	Do you see trains or windows there?	yes
+2411654	1034208	Are there lamps or couches?	no
+2411654	1034265	What is that clock on?	building
+2411654	1034152	How is the weather?	cloudy
+2411654	1034250	Are there white letters or numbers?	no
+2346696	01754928	On which side is the drawer?	left
+2346696	01754936	What color is the logo?	black
+2346696	01754899	Is there a mirror or a bed in the photograph?	yes
+2349396	07518943	Are there any plates or pizzas in this photo?	yes
+2349396	07518987	Are there either any forks or napkins in the photo?	yes
+2349396	07519019	Is the utensil on the plate made of wood or metal?	wood
+2349396	07518853	Is there any food that is white?	yes
+2349396	07518922	Does the paper plate have round shape?	yes
+2349396	07518928	Are there plates or cups in the photo?	yes
+2349396	07518969	Is the pastry in the top part of the picture?	yes
+2349396	07518878	Is the cake to the left or to the right of the plate the fork is on?	right
+2317130	091008525	On which side of the picture are the plastic cups?	left
+2317130	091008649	Which kind of fruit is to the right of the strawberry?	blueberries
+2317130	091008635	What are the fruits to the left of the green vegetable?	blueberries
+2317130	091008499	Which side is the granola on?	right
+2317130	091008514	Which color is the food on the food?	brown
+2317130	091008519	What is used to make the counter, stone or marble?	marble
+2317130	091008477	Are the walnuts on the right side?	no
+2317130	091008641	What kind of fruit is to the right of the cups?	blueberries
+2317130	091008482	Do the walnuts appear to be sitting?	yes
+2317130	091008616	What fruit is to the left of the blueberries?	strawberry
+2317130	091008582	Are there any fences or rackets in this image?	no
+2317130	091008572	What vegetable is to the right of the blueberries?	avocado
+2317130	091008608	What fruit is to the right of the walnuts on the left?	strawberry
+2380186	04917531	Do you see both fences and hats?	yes
+2380186	04917636	Do you see any tall snow or grass in the picture?	no
+2380186	04917587	Is the color of the glove white?	no
+2380186	04917630	How tall is the grass?	short
+2380186	04917605	Is the shoe white or brown?	brown
+2380186	04917612	Where is the man?	field
+2380186	04917611	The man is where?	field
+2337896	021005965	Which color is the vehicle at the station?	white
+2337896	021006055	What is the color of the jacket?	dark
+2337896	021006081	Is the woman to the right or to the left of the man on the right side?	left
+2337896	021006031	Is the man on the right or on the left side of the photo?	right
+2337896	021005916	Is the bicycle to the left of a child?	no
+2337896	021006093	Is the sky orange or maybe is it gray?	gray
+2337896	021005948	Which kind of vehicle is it?	train
+2337896	021005949	What is the name of this vehicle?	train
+2337896	021005944	Is there any train that is not red?	yes
+2337896	021005956	Is this a bus or a train?	train
+2337896	021005955	What vehicle is white?	train
+2337896	021006004	Is there a window in the image that is not large?	yes
+2346957	16612842	Who is wearing the dress?	lady
+2346957	16612752	What is the man wearing?	hat
+2346957	16612943	Are there either black trains or trucks in this picture?	no
+2346957	16612747	On which side of the photo is the man?	left
+2346957	16612751	What is the person to the right of the glasses wearing?	hat
+2346957	16612723	Is it overcast today?	no
+2346957	16612827	What vehicle is the lady on?	train
+2346957	16612933	In which part of the photo is the blue vehicle?	left
+2346957	16612828	What is the lady on, a bus or a train?	train
+2346957	16612738	What type of vehicle has the same color as the clear sky?	train
+2346957	16612917	Are there any trailers or ambulances in the scene?	no
+2346957	16612835	Who do you think is wearing glasses?	lady
+2346957	16612836	Who is wearing the glasses?	lady
+2346957	16612884	Are there white gloves or hats?	no
+2346957	16612861	Are the glasses to the left or to the right of the man that is wearing a hat?	left
+2346957	16612850	Which side are the glasses on, the left or the right?	left
+2346957	16612822	Is the lady on the right side or on the left?	left
+2361783	19409584	Are the trains to the left of the other train white or blue?	blue
+2361783	19409579	What are the vehicles that are blue called?	trains
+2361783	19409580	What vehicles are blue?	trains
+2361783	19409507	Does the train to the right of the other trains look red?	yes
+2361783	19409492	Are there trains in the photograph?	yes
+2361783	19409495	Are there any red trains or buses?	yes
+2374606	121052634	Is it indoors?	yes
+2374606	121052675	On which side of the photo is the cowboy?	right
+2374606	121052655	What is on the wall?	poster

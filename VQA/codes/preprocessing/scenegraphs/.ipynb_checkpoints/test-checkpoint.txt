@@ -1,0 +1,18 @@
+498069	18503714	Is the crate in the top part or in the bottom?	bottom
+498069	18503824	What color is the mailbox?	blue
+498069	18503935	Are there chairs that are red in the picture?	no
+498069	18503733	Is the crate to the left of the open box?	no
+498069	18503715	Does that crate have gray color?	yes
+498069	18503803	Are there both a chair and a window in the image?	yes
+498069	18503881	What is the piece of furniture to the right of the mailbox that is made of metal?	table
+498069	18503993	Are there both windows and doors in this photo?	yes
+498069	18503666	Are there any cabinets or bowls in the image?	no
+498069	18503963	Are there pizzas or glasses in the image?	no
+498069	18503669	Are the white paper towels in the top part or in the bottom?	bottom
+498069	18503921	Which side of the image is the chair on?	right
+498069	18503796	Are there both windows and doors in this image?	yes
+498069	18503830	Does the mailbox to the left of the crate look metallic and silver?	no
+498069	18503776	Is the white box to the right of the crate the chair is to the right of?	no
+498069	18503750	Is the open box in the top part or in the bottom of the picture?	bottom
+498069	18503673	What is the color of the paper towels?	white
+498069	18503890	Are there both chandeliers and umbrellas in this picture?	no

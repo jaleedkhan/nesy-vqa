@@ -1,0 +1,9 @@
+Test (beam) scores with best model from 
+Hits@1:  0.6364
+Hits@3:  0.6364
+Hits@5:  0.6364
+Hits@10:  0.6364
+Hits@20:  0.6364
+auc:  0.6364
+
+

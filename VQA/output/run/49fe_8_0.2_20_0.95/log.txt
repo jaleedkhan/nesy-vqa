@@ -1,0 +1,7 @@
+04/14/2023 12:54:35 PM: [ Total number of labels 3294 ]
+04/14/2023 12:54:35 PM: [ Total number of relations 673 ]
+04/14/2023 12:54:48 PM: [ loading questions from /home/jaleed/Jaleed/Graphhopper/Graph-Hopper/codes/preprocessing/scenegraphs/test.txt ]
+04/14/2023 12:54:48 PM: [ total number of questions: 11 for test ]
+04/14/2023 12:54:48 PM: [ Total number of graphs in index 2 ]
+04/14/2023 12:54:48 PM: [ Total number of graphs found in folder 2 ]
+04/14/2023 12:54:48 PM: [ total graphs 2 ]

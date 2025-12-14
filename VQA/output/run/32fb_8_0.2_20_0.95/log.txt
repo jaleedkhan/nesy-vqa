@@ -1,0 +1,6 @@
+04/28/2023 07:27:46 PM: [ Total number of labels 3295 ]
+04/28/2023 07:27:46 PM: [ Total number of relations 693 ]
+04/28/2023 07:28:00 PM: [ loading questions from /home/jaleed/Jaleed/Graphhopper/Graph-Hopper/codes/preprocessing/scenegraphs/train.txt ]
+04/28/2023 07:28:01 PM: [ total number of questions: 43843 for train ]
+04/28/2023 07:28:01 PM: [ Total number of graphs in index 9708 ]
+04/28/2023 07:28:02 PM: [ Total number of graphs found in folder 9708 ]

@@ -1,0 +1,27 @@
+Score for iteration 10
+Hits@1:  0.5030
+Hits@3:  0.9996
+Hits@5:  0.9996
+Hits@10:  0.9996
+Hits@20:  0.9996
+auc:  0.7513
+
+
+Score for iteration 20
+Hits@1:  0.5048
+Hits@3:  0.9999
+Hits@5:  0.9999
+Hits@10:  0.9999
+Hits@20:  0.9999
+auc:  0.7524
+
+
+Test (beam) scores with best model from 
+Hits@1:  0.5455
+Hits@3:  1.0000
+Hits@5:  1.0000
+Hits@10:  1.0000
+Hits@20:  1.0000
+auc:  0.7727
+
+

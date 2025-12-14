@@ -1,0 +1,4 @@
+498069_Is the crate in the top part or in the bottom?	bottom
+498069_Are the white paper towels in the top part or in the bottom?	bottom
+498069_Which side of the image is the chair on?	right
+498069_Is the open box in the top part or in the bottom of the picture?	bottom

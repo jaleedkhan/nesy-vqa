@@ -1,0 +1,63 @@
+Score for iteration 100
+Hits@1:  0.5005
+Hits@3:  1.0000
+Hits@5:  1.0000
+Hits@10:  1.0000
+Hits@20:  1.0000
+auc:  0.7503
+
+
+Score for iteration 200
+Hits@1:  0.4991
+Hits@3:  1.0000
+Hits@5:  1.0000
+Hits@10:  1.0000
+Hits@20:  1.0000
+auc:  0.7496
+
+
+Score for iteration 300
+Hits@1:  0.4998
+Hits@3:  0.9999
+Hits@5:  0.9999
+Hits@10:  0.9999
+Hits@20:  0.9999
+auc:  0.7499
+
+
+Score for iteration 400
+Hits@1:  0.5020
+Hits@3:  1.0000
+Hits@5:  1.0000
+Hits@10:  1.0000
+Hits@20:  1.0000
+auc:  0.7510
+
+
+Score for iteration 500
+Hits@1:  0.5030
+Hits@3:  1.0000
+Hits@5:  1.0000
+Hits@10:  1.0000
+Hits@20:  1.0000
+auc:  0.7515
+
+
+Score for iteration 600
+Hits@1:  0.5048
+Hits@3:  1.0000
+Hits@5:  1.0000
+Hits@10:  1.0000
+Hits@20:  1.0000
+auc:  0.7524
+
+
+Score for iteration 700
+Hits@1:  0.5105
+Hits@3:  0.9993
+Hits@5:  0.9993
+Hits@10:  0.9993
+Hits@20:  0.9993
+auc:  0.7549
+
+

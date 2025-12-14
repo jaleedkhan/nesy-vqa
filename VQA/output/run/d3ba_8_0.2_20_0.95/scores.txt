@@ -1,0 +1,3609 @@
+Score for iteration 100
+Hits@1:  0.4970
+Hits@3:  0.5844
+Hits@5:  0.5844
+Hits@10:  0.5844
+Hits@20:  0.5844
+auc:  0.5407
+
+
+Score for iteration 200
+Hits@1:  0.4960
+Hits@3:  0.5766
+Hits@5:  0.5766
+Hits@10:  0.5766
+Hits@20:  0.5766
+auc:  0.5363
+
+
+Score for iteration 300
+Hits@1:  0.4994
+Hits@3:  0.5456
+Hits@5:  0.5456
+Hits@10:  0.5456
+Hits@20:  0.5456
+auc:  0.5225
+
+
+Score for iteration 400
+Hits@1:  0.4941
+Hits@3:  0.6045
+Hits@5:  0.6045
+Hits@10:  0.6045
+Hits@20:  0.6045
+auc:  0.5493
+
+
+Score for iteration 500
+Hits@1:  0.4979
+Hits@3:  0.5716
+Hits@5:  0.5716
+Hits@10:  0.5716
+Hits@20:  0.5716
+auc:  0.5347
+
+
+Score for iteration 600
+Hits@1:  0.4986
+Hits@3:  0.5346
+Hits@5:  0.5346
+Hits@10:  0.5346
+Hits@20:  0.5346
+auc:  0.5166
+
+
+Score for iteration 700
+Hits@1:  0.4978
+Hits@3:  0.5232
+Hits@5:  0.5232
+Hits@10:  0.5232
+Hits@20:  0.5232
+auc:  0.5105
+
+
+Score for iteration 800
+Hits@1:  0.4957
+Hits@3:  0.5586
+Hits@5:  0.5586
+Hits@10:  0.5586
+Hits@20:  0.5586
+auc:  0.5272
+
+
+Score for iteration 900
+Hits@1:  0.4979
+Hits@3:  0.5196
+Hits@5:  0.5196
+Hits@10:  0.5196
+Hits@20:  0.5196
+auc:  0.5088
+
+
+Score for iteration 1000
+Hits@1:  0.4972
+Hits@3:  0.5501
+Hits@5:  0.5501
+Hits@10:  0.5501
+Hits@20:  0.5501
+auc:  0.5236
+
+
+Score for iteration 1100
+Hits@1:  0.4970
+Hits@3:  0.5598
+Hits@5:  0.5598
+Hits@10:  0.5598
+Hits@20:  0.5598
+auc:  0.5284
+
+
+Score for iteration 1200
+Hits@1:  0.4974
+Hits@3:  0.5923
+Hits@5:  0.5923
+Hits@10:  0.5923
+Hits@20:  0.5923
+auc:  0.5448
+
+
+Score for iteration 1300
+Hits@1:  0.5054
+Hits@3:  0.5384
+Hits@5:  0.5384
+Hits@10:  0.5384
+Hits@20:  0.5384
+auc:  0.5219
+
+
+Score for iteration 1400
+Hits@1:  0.5051
+Hits@3:  0.5416
+Hits@5:  0.5416
+Hits@10:  0.5416
+Hits@20:  0.5416
+auc:  0.5234
+
+
+Score for iteration 1500
+Hits@1:  0.5042
+Hits@3:  0.5358
+Hits@5:  0.5358
+Hits@10:  0.5358
+Hits@20:  0.5358
+auc:  0.5200
+
+
+Score for iteration 1600
+Hits@1:  0.5050
+Hits@3:  0.5334
+Hits@5:  0.5334
+Hits@10:  0.5334
+Hits@20:  0.5334
+auc:  0.5192
+
+
+Score for iteration 1700
+Hits@1:  0.5044
+Hits@3:  0.5337
+Hits@5:  0.5337
+Hits@10:  0.5337
+Hits@20:  0.5337
+auc:  0.5190
+
+
+Score for iteration 1800
+Hits@1:  0.5018
+Hits@3:  0.5247
+Hits@5:  0.5247
+Hits@10:  0.5247
+Hits@20:  0.5247
+auc:  0.5132
+
+
+Score for iteration 1900
+Hits@1:  0.5032
+Hits@3:  0.5264
+Hits@5:  0.5264
+Hits@10:  0.5264
+Hits@20:  0.5264
+auc:  0.5148
+
+
+Score for iteration 2000
+Hits@1:  0.5043
+Hits@3:  0.5274
+Hits@5:  0.5274
+Hits@10:  0.5274
+Hits@20:  0.5274
+auc:  0.5159
+
+
+Score for iteration 2100
+Hits@1:  0.5046
+Hits@3:  0.5258
+Hits@5:  0.5258
+Hits@10:  0.5258
+Hits@20:  0.5258
+auc:  0.5152
+
+
+Score for iteration 2200
+Hits@1:  0.5055
+Hits@3:  0.5304
+Hits@5:  0.5304
+Hits@10:  0.5304
+Hits@20:  0.5304
+auc:  0.5180
+
+
+Score for iteration 2300
+Hits@1:  0.5048
+Hits@3:  0.5314
+Hits@5:  0.5314
+Hits@10:  0.5314
+Hits@20:  0.5314
+auc:  0.5181
+
+
+Score for iteration 2400
+Hits@1:  0.5050
+Hits@3:  0.5307
+Hits@5:  0.5307
+Hits@10:  0.5307
+Hits@20:  0.5307
+auc:  0.5178
+
+
+Score for iteration 2500
+Hits@1:  0.5050
+Hits@3:  0.5302
+Hits@5:  0.5302
+Hits@10:  0.5302
+Hits@20:  0.5302
+auc:  0.5176
+
+
+Score for iteration 2600
+Hits@1:  0.5049
+Hits@3:  0.5325
+Hits@5:  0.5325
+Hits@10:  0.5325
+Hits@20:  0.5325
+auc:  0.5187
+
+
+Score for iteration 2700
+Hits@1:  0.5050
+Hits@3:  0.5278
+Hits@5:  0.5278
+Hits@10:  0.5278
+Hits@20:  0.5278
+auc:  0.5164
+
+
+Score for iteration 2800
+Hits@1:  0.5060
+Hits@3:  0.5307
+Hits@5:  0.5307
+Hits@10:  0.5307
+Hits@20:  0.5307
+auc:  0.5184
+
+
+Score for iteration 2900
+Hits@1:  0.5056
+Hits@3:  0.5300
+Hits@5:  0.5300
+Hits@10:  0.5300
+Hits@20:  0.5300
+auc:  0.5178
+
+
+Score for iteration 3000
+Hits@1:  0.5048
+Hits@3:  0.5354
+Hits@5:  0.5354
+Hits@10:  0.5354
+Hits@20:  0.5354
+auc:  0.5201
+
+
+Score for iteration 3100
+Hits@1:  0.5051
+Hits@3:  0.5189
+Hits@5:  0.5189
+Hits@10:  0.5189
+Hits@20:  0.5189
+auc:  0.5120
+
+
+Score for iteration 3200
+Hits@1:  0.5037
+Hits@3:  0.5174
+Hits@5:  0.5174
+Hits@10:  0.5174
+Hits@20:  0.5174
+auc:  0.5106
+
+
+Score for iteration 3300
+Hits@1:  0.5038
+Hits@3:  0.5172
+Hits@5:  0.5172
+Hits@10:  0.5172
+Hits@20:  0.5172
+auc:  0.5105
+
+
+Score for iteration 3400
+Hits@1:  0.5036
+Hits@3:  0.5157
+Hits@5:  0.5157
+Hits@10:  0.5157
+Hits@20:  0.5157
+auc:  0.5096
+
+
+Score for iteration 3500
+Hits@1:  0.5033
+Hits@3:  0.5154
+Hits@5:  0.5154
+Hits@10:  0.5154
+Hits@20:  0.5154
+auc:  0.5094
+
+
+Score for iteration 3600
+Hits@1:  0.5030
+Hits@3:  0.5153
+Hits@5:  0.5153
+Hits@10:  0.5153
+Hits@20:  0.5153
+auc:  0.5092
+
+
+Score for iteration 3700
+Hits@1:  0.5039
+Hits@3:  0.5165
+Hits@5:  0.5165
+Hits@10:  0.5165
+Hits@20:  0.5165
+auc:  0.5102
+
+
+Score for iteration 3800
+Hits@1:  0.5050
+Hits@3:  0.5188
+Hits@5:  0.5188
+Hits@10:  0.5188
+Hits@20:  0.5188
+auc:  0.5119
+
+
+Score for iteration 3900
+Hits@1:  0.5052
+Hits@3:  0.5188
+Hits@5:  0.5188
+Hits@10:  0.5188
+Hits@20:  0.5188
+auc:  0.5120
+
+
+Score for iteration 4000
+Hits@1:  0.5051
+Hits@3:  0.5192
+Hits@5:  0.5192
+Hits@10:  0.5192
+Hits@20:  0.5192
+auc:  0.5122
+
+
+Score for iteration 4100
+Hits@1:  0.5050
+Hits@3:  0.5162
+Hits@5:  0.5162
+Hits@10:  0.5162
+Hits@20:  0.5162
+auc:  0.5106
+
+
+Score for iteration 4200
+Hits@1:  0.5053
+Hits@3:  0.5164
+Hits@5:  0.5164
+Hits@10:  0.5164
+Hits@20:  0.5164
+auc:  0.5109
+
+
+Score for iteration 4300
+Hits@1:  0.5046
+Hits@3:  0.5160
+Hits@5:  0.5160
+Hits@10:  0.5160
+Hits@20:  0.5160
+auc:  0.5103
+
+
+Score for iteration 4400
+Hits@1:  0.5049
+Hits@3:  0.5165
+Hits@5:  0.5165
+Hits@10:  0.5165
+Hits@20:  0.5165
+auc:  0.5107
+
+
+Score for iteration 4500
+Hits@1:  0.5056
+Hits@3:  0.5171
+Hits@5:  0.5171
+Hits@10:  0.5171
+Hits@20:  0.5171
+auc:  0.5114
+
+
+Score for iteration 4600
+Hits@1:  0.5028
+Hits@3:  0.5139
+Hits@5:  0.5139
+Hits@10:  0.5139
+Hits@20:  0.5139
+auc:  0.5084
+
+
+Score for iteration 4700
+Hits@1:  0.5032
+Hits@3:  0.5149
+Hits@5:  0.5149
+Hits@10:  0.5149
+Hits@20:  0.5149
+auc:  0.5090
+
+
+Score for iteration 4800
+Hits@1:  0.5045
+Hits@3:  0.5150
+Hits@5:  0.5150
+Hits@10:  0.5150
+Hits@20:  0.5150
+auc:  0.5098
+
+
+Score for iteration 4900
+Hits@1:  0.5046
+Hits@3:  0.5166
+Hits@5:  0.5166
+Hits@10:  0.5166
+Hits@20:  0.5166
+auc:  0.5106
+
+
+Score for iteration 5000
+Hits@1:  0.5047
+Hits@3:  0.5170
+Hits@5:  0.5170
+Hits@10:  0.5170
+Hits@20:  0.5170
+auc:  0.5108
+
+
+Score for iteration 5100
+Hits@1:  0.5051
+Hits@3:  0.5164
+Hits@5:  0.5164
+Hits@10:  0.5164
+Hits@20:  0.5164
+auc:  0.5108
+
+
+Score for iteration 5200
+Hits@1:  0.5029
+Hits@3:  0.5124
+Hits@5:  0.5124
+Hits@10:  0.5124
+Hits@20:  0.5124
+auc:  0.5077
+
+
+Score for iteration 5300
+Hits@1:  0.5056
+Hits@3:  0.5164
+Hits@5:  0.5164
+Hits@10:  0.5164
+Hits@20:  0.5164
+auc:  0.5110
+
+
+Score for iteration 5400
+Hits@1:  0.5055
+Hits@3:  0.5171
+Hits@5:  0.5171
+Hits@10:  0.5171
+Hits@20:  0.5171
+auc:  0.5113
+
+
+Score for iteration 5500
+Hits@1:  0.5049
+Hits@3:  0.5181
+Hits@5:  0.5181
+Hits@10:  0.5181
+Hits@20:  0.5181
+auc:  0.5115
+
+
+Score for iteration 5600
+Hits@1:  0.5049
+Hits@3:  0.5173
+Hits@5:  0.5173
+Hits@10:  0.5173
+Hits@20:  0.5173
+auc:  0.5111
+
+
+Score for iteration 5700
+Hits@1:  0.4952
+Hits@3:  0.4976
+Hits@5:  0.4976
+Hits@10:  0.4976
+Hits@20:  0.4976
+auc:  0.4964
+
+
+Score for iteration 5800
+Hits@1:  0.4961
+Hits@3:  0.4999
+Hits@5:  0.4999
+Hits@10:  0.4999
+Hits@20:  0.4999
+auc:  0.4980
+
+
+Score for iteration 5900
+Hits@1:  0.4954
+Hits@3:  0.4975
+Hits@5:  0.4975
+Hits@10:  0.4975
+Hits@20:  0.4975
+auc:  0.4965
+
+
+Score for iteration 6000
+Hits@1:  0.4955
+Hits@3:  0.4988
+Hits@5:  0.4988
+Hits@10:  0.4988
+Hits@20:  0.4988
+auc:  0.4971
+
+
+Score for iteration 6100
+Hits@1:  0.4961
+Hits@3:  0.4996
+Hits@5:  0.4996
+Hits@10:  0.4996
+Hits@20:  0.4996
+auc:  0.4978
+
+
+Score for iteration 6200
+Hits@1:  0.4959
+Hits@3:  0.4995
+Hits@5:  0.4995
+Hits@10:  0.4995
+Hits@20:  0.4995
+auc:  0.4977
+
+
+Score for iteration 6300
+Hits@1:  0.4960
+Hits@3:  0.4976
+Hits@5:  0.4976
+Hits@10:  0.4976
+Hits@20:  0.4976
+auc:  0.4968
+
+
+Score for iteration 6400
+Hits@1:  0.4961
+Hits@3:  0.4978
+Hits@5:  0.4978
+Hits@10:  0.4978
+Hits@20:  0.4978
+auc:  0.4969
+
+
+Score for iteration 6500
+Hits@1:  0.4964
+Hits@3:  0.4999
+Hits@5:  0.4999
+Hits@10:  0.4999
+Hits@20:  0.4999
+auc:  0.4981
+
+
+Score for iteration 6600
+Hits@1:  0.4966
+Hits@3:  0.5006
+Hits@5:  0.5006
+Hits@10:  0.5006
+Hits@20:  0.5006
+auc:  0.4986
+
+
+Score for iteration 6700
+Hits@1:  0.4962
+Hits@3:  0.4979
+Hits@5:  0.4979
+Hits@10:  0.4979
+Hits@20:  0.4979
+auc:  0.4971
+
+
+Score for iteration 6800
+Hits@1:  0.4962
+Hits@3:  0.4986
+Hits@5:  0.4986
+Hits@10:  0.4986
+Hits@20:  0.4986
+auc:  0.4974
+
+
+Score for iteration 6900
+Hits@1:  0.4957
+Hits@3:  0.4974
+Hits@5:  0.4974
+Hits@10:  0.4974
+Hits@20:  0.4974
+auc:  0.4965
+
+
+Score for iteration 7000
+Hits@1:  0.4954
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4962
+
+
+Score for iteration 7100
+Hits@1:  0.4956
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4963
+
+
+Score for iteration 7200
+Hits@1:  0.4958
+Hits@3:  0.4984
+Hits@5:  0.4984
+Hits@10:  0.4984
+Hits@20:  0.4984
+auc:  0.4971
+
+
+Score for iteration 7300
+Hits@1:  0.5016
+Hits@3:  0.5105
+Hits@5:  0.5105
+Hits@10:  0.5105
+Hits@20:  0.5105
+auc:  0.5060
+
+
+Score for iteration 7400
+Hits@1:  0.4967
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4969
+
+
+Score for iteration 7500
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4970
+
+
+Score for iteration 7600
+Hits@1:  0.4967
+Hits@3:  0.4973
+Hits@5:  0.4973
+Hits@10:  0.4973
+Hits@20:  0.4973
+auc:  0.4970
+
+
+Score for iteration 7700
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4969
+
+
+Score for iteration 7800
+Hits@1:  0.4967
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 7900
+Hits@1:  0.4966
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 8000
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4969
+
+
+Score for iteration 8100
+Hits@1:  0.4966
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4969
+
+
+Score for iteration 8200
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 8300
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4969
+
+
+Score for iteration 8400
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4969
+
+
+Score for iteration 8500
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4970
+
+
+Score for iteration 8600
+Hits@1:  0.4968
+Hits@3:  0.4973
+Hits@5:  0.4973
+Hits@10:  0.4973
+Hits@20:  0.4973
+auc:  0.4970
+
+
+Score for iteration 8700
+Hits@1:  0.4968
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4970
+
+
+Score for iteration 8800
+Hits@1:  0.4968
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4970
+
+
+Score for iteration 8900
+Hits@1:  0.4968
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4970
+
+
+Score for iteration 9000
+Hits@1:  0.4967
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 9100
+Hits@1:  0.4967
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 9200
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 9300
+Hits@1:  0.4967
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 9400
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 9500
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 9600
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 9700
+Hits@1:  0.4967
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4969
+
+
+Score for iteration 9800
+Hits@1:  0.4966
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 9900
+Hits@1:  0.4967
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 10000
+Hits@1:  0.4967
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 10100
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 10200
+Hits@1:  0.4967
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 10300
+Hits@1:  0.4969
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4970
+
+
+Score for iteration 10400
+Hits@1:  0.4967
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 10500
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4970
+
+
+Score for iteration 10600
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 10700
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 10800
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 10900
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 11000
+Hits@1:  0.4965
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 11100
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 11200
+Hits@1:  0.4966
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4968
+
+
+Score for iteration 11300
+Hits@1:  0.4966
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 11400
+Hits@1:  0.4966
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4968
+
+
+Score for iteration 11500
+Hits@1:  0.4966
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 11600
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 11700
+Hits@1:  0.4967
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 11800
+Hits@1:  0.4968
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 11900
+Hits@1:  0.4968
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 12000
+Hits@1:  0.4966
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4968
+
+
+Score for iteration 12100
+Hits@1:  0.4967
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 12200
+Hits@1:  0.4967
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4969
+
+
+Score for iteration 12300
+Hits@1:  0.4967
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 12400
+Hits@1:  0.4968
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4970
+
+
+Score for iteration 12500
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4969
+
+
+Score for iteration 12600
+Hits@1:  0.4966
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4969
+
+
+Score for iteration 12700
+Hits@1:  0.4967
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 12800
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4969
+
+
+Score for iteration 12900
+Hits@1:  0.4967
+Hits@3:  0.4973
+Hits@5:  0.4973
+Hits@10:  0.4973
+Hits@20:  0.4973
+auc:  0.4970
+
+
+Score for iteration 13000
+Hits@1:  0.4967
+Hits@3:  0.4973
+Hits@5:  0.4973
+Hits@10:  0.4973
+Hits@20:  0.4973
+auc:  0.4970
+
+
+Score for iteration 13100
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4970
+
+
+Score for iteration 13200
+Hits@1:  0.4967
+Hits@3:  0.4973
+Hits@5:  0.4973
+Hits@10:  0.4973
+Hits@20:  0.4973
+auc:  0.4970
+
+
+Score for iteration 13300
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4970
+
+
+Score for iteration 13400
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4970
+
+
+Score for iteration 13500
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4970
+
+
+Score for iteration 13600
+Hits@1:  0.4967
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 13700
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 13800
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 13900
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 14000
+Hits@1:  0.4965
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4968
+
+
+Score for iteration 14100
+Hits@1:  0.4965
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4968
+
+
+Score for iteration 14200
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 14300
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4969
+
+
+Score for iteration 14400
+Hits@1:  0.4966
+Hits@3:  0.4969
+Hits@5:  0.4969
+Hits@10:  0.4969
+Hits@20:  0.4969
+auc:  0.4967
+
+
+Score for iteration 14500
+Hits@1:  0.4967
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 14600
+Hits@1:  0.4967
+Hits@3:  0.4971
+Hits@5:  0.4971
+Hits@10:  0.4971
+Hits@20:  0.4971
+auc:  0.4969
+
+
+Score for iteration 14700
+Hits@1:  0.4967
+Hits@3:  0.4972
+Hits@5:  0.4972
+Hits@10:  0.4972
+Hits@20:  0.4972
+auc:  0.4970
+
+
+Score for iteration 14800
+Hits@1:  0.4966
+Hits@3:  0.4973
+Hits@5:  0.4973
+Hits@10:  0.4973
+Hits@20:  0.4973
+auc:  0.4969
+
+
+Score for iteration 14900
+Hits@1:  0.4965
+Hits@3:  0.4969
+Hits@5:  0.4969
+Hits@10:  0.4969
+Hits@20:  0.4969
+auc:  0.4967
+
+
+Score for iteration 15000
+Hits@1:  0.4963
+Hits@3:  0.4969
+Hits@5:  0.4969
+Hits@10:  0.4969
+Hits@20:  0.4969
+auc:  0.4966
+
+
+Score for iteration 15100
+Hits@1:  0.4965
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 15200
+Hits@1:  0.4966
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4968
+
+
+Score for iteration 15300
+Hits@1:  0.4967
+Hits@3:  0.4973
+Hits@5:  0.4973
+Hits@10:  0.4973
+Hits@20:  0.4973
+auc:  0.4970
+
+
+Score for iteration 15400
+Hits@1:  0.4964
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4967
+
+
+Score for iteration 15500
+Hits@1:  0.4963
+Hits@3:  0.4966
+Hits@5:  0.4966
+Hits@10:  0.4966
+Hits@20:  0.4966
+auc:  0.4964
+
+
+Score for iteration 15600
+Hits@1:  0.5027
+Hits@3:  0.5054
+Hits@5:  0.5054
+Hits@10:  0.5054
+Hits@20:  0.5054
+auc:  0.5040
+
+
+Score for iteration 15700
+Hits@1:  0.5041
+Hits@3:  0.5056
+Hits@5:  0.5056
+Hits@10:  0.5056
+Hits@20:  0.5056
+auc:  0.5048
+
+
+Score for iteration 15800
+Hits@1:  0.5043
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5050
+
+
+Score for iteration 15900
+Hits@1:  0.5041
+Hits@3:  0.5055
+Hits@5:  0.5055
+Hits@10:  0.5055
+Hits@20:  0.5055
+auc:  0.5048
+
+
+Score for iteration 16000
+Hits@1:  0.5040
+Hits@3:  0.5056
+Hits@5:  0.5056
+Hits@10:  0.5056
+Hits@20:  0.5056
+auc:  0.5048
+
+
+Score for iteration 16100
+Hits@1:  0.5045
+Hits@3:  0.5060
+Hits@5:  0.5060
+Hits@10:  0.5060
+Hits@20:  0.5060
+auc:  0.5052
+
+
+Score for iteration 16200
+Hits@1:  0.5042
+Hits@3:  0.5059
+Hits@5:  0.5059
+Hits@10:  0.5059
+Hits@20:  0.5059
+auc:  0.5051
+
+
+Score for iteration 16300
+Hits@1:  0.5043
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5050
+
+
+Score for iteration 16400
+Hits@1:  0.5043
+Hits@3:  0.5056
+Hits@5:  0.5056
+Hits@10:  0.5056
+Hits@20:  0.5056
+auc:  0.5049
+
+
+Score for iteration 16500
+Hits@1:  0.5041
+Hits@3:  0.5056
+Hits@5:  0.5056
+Hits@10:  0.5056
+Hits@20:  0.5056
+auc:  0.5048
+
+
+Score for iteration 16600
+Hits@1:  0.5040
+Hits@3:  0.5058
+Hits@5:  0.5058
+Hits@10:  0.5058
+Hits@20:  0.5058
+auc:  0.5049
+
+
+Score for iteration 16700
+Hits@1:  0.5043
+Hits@3:  0.5056
+Hits@5:  0.5056
+Hits@10:  0.5056
+Hits@20:  0.5056
+auc:  0.5049
+
+
+Score for iteration 16800
+Hits@1:  0.5043
+Hits@3:  0.5056
+Hits@5:  0.5056
+Hits@10:  0.5056
+Hits@20:  0.5056
+auc:  0.5049
+
+
+Score for iteration 16900
+Hits@1:  0.5043
+Hits@3:  0.5058
+Hits@5:  0.5058
+Hits@10:  0.5058
+Hits@20:  0.5058
+auc:  0.5051
+
+
+Score for iteration 17000
+Hits@1:  0.5041
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5049
+
+
+Score for iteration 17100
+Hits@1:  0.5046
+Hits@3:  0.5061
+Hits@5:  0.5061
+Hits@10:  0.5061
+Hits@20:  0.5061
+auc:  0.5053
+
+
+Score for iteration 17200
+Hits@1:  0.5044
+Hits@3:  0.5058
+Hits@5:  0.5058
+Hits@10:  0.5058
+Hits@20:  0.5058
+auc:  0.5051
+
+
+Score for iteration 17300
+Hits@1:  0.5041
+Hits@3:  0.5059
+Hits@5:  0.5059
+Hits@10:  0.5059
+Hits@20:  0.5059
+auc:  0.5050
+
+
+Score for iteration 17400
+Hits@1:  0.5043
+Hits@3:  0.5058
+Hits@5:  0.5058
+Hits@10:  0.5058
+Hits@20:  0.5058
+auc:  0.5051
+
+
+Score for iteration 17500
+Hits@1:  0.5046
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5051
+
+
+Score for iteration 17600
+Hits@1:  0.5043
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5050
+
+
+Score for iteration 17700
+Hits@1:  0.5044
+Hits@3:  0.5058
+Hits@5:  0.5058
+Hits@10:  0.5058
+Hits@20:  0.5058
+auc:  0.5051
+
+
+Score for iteration 17800
+Hits@1:  0.5047
+Hits@3:  0.5058
+Hits@5:  0.5058
+Hits@10:  0.5058
+Hits@20:  0.5058
+auc:  0.5053
+
+
+Score for iteration 17900
+Hits@1:  0.5043
+Hits@3:  0.5059
+Hits@5:  0.5059
+Hits@10:  0.5059
+Hits@20:  0.5059
+auc:  0.5051
+
+
+Score for iteration 18000
+Hits@1:  0.5043
+Hits@3:  0.5061
+Hits@5:  0.5061
+Hits@10:  0.5061
+Hits@20:  0.5061
+auc:  0.5052
+
+
+Score for iteration 18100
+Hits@1:  0.5047
+Hits@3:  0.5060
+Hits@5:  0.5060
+Hits@10:  0.5060
+Hits@20:  0.5060
+auc:  0.5054
+
+
+Score for iteration 18200
+Hits@1:  0.5040
+Hits@3:  0.5059
+Hits@5:  0.5059
+Hits@10:  0.5059
+Hits@20:  0.5059
+auc:  0.5049
+
+
+Score for iteration 18300
+Hits@1:  0.5042
+Hits@3:  0.5059
+Hits@5:  0.5059
+Hits@10:  0.5059
+Hits@20:  0.5059
+auc:  0.5050
+
+
+Score for iteration 18400
+Hits@1:  0.5041
+Hits@3:  0.5056
+Hits@5:  0.5056
+Hits@10:  0.5056
+Hits@20:  0.5056
+auc:  0.5049
+
+
+Score for iteration 18500
+Hits@1:  0.5046
+Hits@3:  0.5059
+Hits@5:  0.5059
+Hits@10:  0.5059
+Hits@20:  0.5059
+auc:  0.5052
+
+
+Score for iteration 18600
+Hits@1:  0.5046
+Hits@3:  0.5059
+Hits@5:  0.5059
+Hits@10:  0.5059
+Hits@20:  0.5059
+auc:  0.5053
+
+
+Score for iteration 18700
+Hits@1:  0.5038
+Hits@3:  0.5064
+Hits@5:  0.5064
+Hits@10:  0.5064
+Hits@20:  0.5064
+auc:  0.5051
+
+
+Score for iteration 18800
+Hits@1:  0.5041
+Hits@3:  0.5060
+Hits@5:  0.5060
+Hits@10:  0.5060
+Hits@20:  0.5060
+auc:  0.5050
+
+
+Score for iteration 18900
+Hits@1:  0.5033
+Hits@3:  0.5104
+Hits@5:  0.5104
+Hits@10:  0.5104
+Hits@20:  0.5104
+auc:  0.5068
+
+
+Score for iteration 19000
+Hits@1:  0.5037
+Hits@3:  0.5105
+Hits@5:  0.5105
+Hits@10:  0.5105
+Hits@20:  0.5105
+auc:  0.5071
+
+
+Score for iteration 19100
+Hits@1:  0.5036
+Hits@3:  0.5087
+Hits@5:  0.5087
+Hits@10:  0.5087
+Hits@20:  0.5087
+auc:  0.5062
+
+
+Score for iteration 19200
+Hits@1:  0.5040
+Hits@3:  0.5091
+Hits@5:  0.5091
+Hits@10:  0.5091
+Hits@20:  0.5091
+auc:  0.5066
+
+
+Score for iteration 19300
+Hits@1:  0.5045
+Hits@3:  0.5059
+Hits@5:  0.5059
+Hits@10:  0.5059
+Hits@20:  0.5059
+auc:  0.5052
+
+
+Score for iteration 19400
+Hits@1:  0.5044
+Hits@3:  0.5060
+Hits@5:  0.5060
+Hits@10:  0.5060
+Hits@20:  0.5060
+auc:  0.5052
+
+
+Score for iteration 19500
+Hits@1:  0.5043
+Hits@3:  0.5061
+Hits@5:  0.5061
+Hits@10:  0.5061
+Hits@20:  0.5061
+auc:  0.5052
+
+
+Score for iteration 19600
+Hits@1:  0.5041
+Hits@3:  0.5067
+Hits@5:  0.5067
+Hits@10:  0.5067
+Hits@20:  0.5067
+auc:  0.5054
+
+
+Score for iteration 19700
+Hits@1:  0.5038
+Hits@3:  0.5092
+Hits@5:  0.5092
+Hits@10:  0.5092
+Hits@20:  0.5092
+auc:  0.5065
+
+
+Score for iteration 19800
+Hits@1:  0.5017
+Hits@3:  0.5096
+Hits@5:  0.5096
+Hits@10:  0.5096
+Hits@20:  0.5096
+auc:  0.5057
+
+
+Score for iteration 19900
+Hits@1:  0.5011
+Hits@3:  0.5118
+Hits@5:  0.5118
+Hits@10:  0.5118
+Hits@20:  0.5118
+auc:  0.5064
+
+
+Score for iteration 20000
+Hits@1:  0.5042
+Hits@3:  0.5056
+Hits@5:  0.5056
+Hits@10:  0.5056
+Hits@20:  0.5056
+auc:  0.5049
+
+
+Score for iteration 20100
+Hits@1:  0.5039
+Hits@3:  0.5056
+Hits@5:  0.5056
+Hits@10:  0.5056
+Hits@20:  0.5056
+auc:  0.5048
+
+
+Score for iteration 20200
+Hits@1:  0.5044
+Hits@3:  0.5063
+Hits@5:  0.5063
+Hits@10:  0.5063
+Hits@20:  0.5063
+auc:  0.5054
+
+
+Score for iteration 20300
+Hits@1:  0.5041
+Hits@3:  0.5059
+Hits@5:  0.5059
+Hits@10:  0.5059
+Hits@20:  0.5059
+auc:  0.5050
+
+
+Score for iteration 20400
+Hits@1:  0.5040
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5049
+
+
+Score for iteration 20500
+Hits@1:  0.5042
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5050
+
+
+Score for iteration 20600
+Hits@1:  0.5044
+Hits@3:  0.5061
+Hits@5:  0.5061
+Hits@10:  0.5061
+Hits@20:  0.5061
+auc:  0.5053
+
+
+Score for iteration 20700
+Hits@1:  0.5042
+Hits@3:  0.5058
+Hits@5:  0.5058
+Hits@10:  0.5058
+Hits@20:  0.5058
+auc:  0.5050
+
+
+Score for iteration 20800
+Hits@1:  0.5045
+Hits@3:  0.5059
+Hits@5:  0.5059
+Hits@10:  0.5059
+Hits@20:  0.5059
+auc:  0.5052
+
+
+Score for iteration 20900
+Hits@1:  0.5039
+Hits@3:  0.5053
+Hits@5:  0.5053
+Hits@10:  0.5053
+Hits@20:  0.5053
+auc:  0.5046
+
+
+Score for iteration 21000
+Hits@1:  0.5039
+Hits@3:  0.5054
+Hits@5:  0.5054
+Hits@10:  0.5054
+Hits@20:  0.5054
+auc:  0.5047
+
+
+Score for iteration 21100
+Hits@1:  0.5043
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5050
+
+
+Score for iteration 21200
+Hits@1:  0.5040
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5049
+
+
+Score for iteration 21300
+Hits@1:  0.5040
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5048
+
+
+Score for iteration 21400
+Hits@1:  0.5035
+Hits@3:  0.5075
+Hits@5:  0.5075
+Hits@10:  0.5075
+Hits@20:  0.5075
+auc:  0.5055
+
+
+Score for iteration 21500
+Hits@1:  0.5038
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5048
+
+
+Score for iteration 21600
+Hits@1:  0.5036
+Hits@3:  0.5052
+Hits@5:  0.5052
+Hits@10:  0.5052
+Hits@20:  0.5052
+auc:  0.5044
+
+
+Score for iteration 21700
+Hits@1:  0.5040
+Hits@3:  0.5058
+Hits@5:  0.5058
+Hits@10:  0.5058
+Hits@20:  0.5058
+auc:  0.5049
+
+
+Score for iteration 21800
+Hits@1:  0.5036
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5046
+
+
+Score for iteration 21900
+Hits@1:  0.5044
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5050
+
+
+Score for iteration 22000
+Hits@1:  0.5042
+Hits@3:  0.5056
+Hits@5:  0.5056
+Hits@10:  0.5056
+Hits@20:  0.5056
+auc:  0.5049
+
+
+Score for iteration 22100
+Hits@1:  0.5045
+Hits@3:  0.5055
+Hits@5:  0.5055
+Hits@10:  0.5055
+Hits@20:  0.5055
+auc:  0.5050
+
+
+Score for iteration 22200
+Hits@1:  0.5044
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5051
+
+
+Score for iteration 22300
+Hits@1:  0.5048
+Hits@3:  0.5058
+Hits@5:  0.5058
+Hits@10:  0.5058
+Hits@20:  0.5058
+auc:  0.5053
+
+
+Score for iteration 22400
+Hits@1:  0.5047
+Hits@3:  0.5058
+Hits@5:  0.5058
+Hits@10:  0.5058
+Hits@20:  0.5058
+auc:  0.5052
+
+
+Score for iteration 22500
+Hits@1:  0.5043
+Hits@3:  0.5053
+Hits@5:  0.5053
+Hits@10:  0.5053
+Hits@20:  0.5053
+auc:  0.5048
+
+
+Score for iteration 22600
+Hits@1:  0.5044
+Hits@3:  0.5053
+Hits@5:  0.5053
+Hits@10:  0.5053
+Hits@20:  0.5053
+auc:  0.5048
+
+
+Score for iteration 22700
+Hits@1:  0.5047
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5052
+
+
+Score for iteration 22800
+Hits@1:  0.5044
+Hits@3:  0.5054
+Hits@5:  0.5054
+Hits@10:  0.5054
+Hits@20:  0.5054
+auc:  0.5049
+
+
+Score for iteration 22900
+Hits@1:  0.5041
+Hits@3:  0.5056
+Hits@5:  0.5056
+Hits@10:  0.5056
+Hits@20:  0.5056
+auc:  0.5048
+
+
+Score for iteration 23000
+Hits@1:  0.5046
+Hits@3:  0.5058
+Hits@5:  0.5058
+Hits@10:  0.5058
+Hits@20:  0.5058
+auc:  0.5052
+
+
+Score for iteration 23100
+Hits@1:  0.5049
+Hits@3:  0.5055
+Hits@5:  0.5055
+Hits@10:  0.5055
+Hits@20:  0.5055
+auc:  0.5052
+
+
+Score for iteration 23200
+Hits@1:  0.5047
+Hits@3:  0.5057
+Hits@5:  0.5057
+Hits@10:  0.5057
+Hits@20:  0.5057
+auc:  0.5052
+
+
+Score for iteration 23300
+Hits@1:  0.5046
+Hits@3:  0.5055
+Hits@5:  0.5055
+Hits@10:  0.5055
+Hits@20:  0.5055
+auc:  0.5050
+
+
+Score for iteration 23400
+Hits@1:  0.5039
+Hits@3:  0.5045
+Hits@5:  0.5045
+Hits@10:  0.5045
+Hits@20:  0.5045
+auc:  0.5042
+
+
+Score for iteration 23500
+Hits@1:  0.5033
+Hits@3:  0.5041
+Hits@5:  0.5041
+Hits@10:  0.5041
+Hits@20:  0.5041
+auc:  0.5037
+
+
+Score for iteration 23600
+Hits@1:  0.5040
+Hits@3:  0.5066
+Hits@5:  0.5066
+Hits@10:  0.5066
+Hits@20:  0.5066
+auc:  0.5053
+
+
+Score for iteration 23700
+Hits@1:  0.5028
+Hits@3:  0.5036
+Hits@5:  0.5036
+Hits@10:  0.5036
+Hits@20:  0.5036
+auc:  0.5032
+
+
+Score for iteration 23800
+Hits@1:  0.5023
+Hits@3:  0.5032
+Hits@5:  0.5032
+Hits@10:  0.5032
+Hits@20:  0.5032
+auc:  0.5027
+
+
+Score for iteration 23900
+Hits@1:  0.5032
+Hits@3:  0.5064
+Hits@5:  0.5064
+Hits@10:  0.5064
+Hits@20:  0.5064
+auc:  0.5048
+
+
+Score for iteration 24000
+Hits@1:  0.5082
+Hits@3:  0.5173
+Hits@5:  0.5173
+Hits@10:  0.5173
+Hits@20:  0.5173
+auc:  0.5128
+
+
+Score for iteration 24100
+Hits@1:  0.5082
+Hits@3:  0.5110
+Hits@5:  0.5110
+Hits@10:  0.5110
+Hits@20:  0.5110
+auc:  0.5096
+
+
+Score for iteration 24200
+Hits@1:  0.5080
+Hits@3:  0.5116
+Hits@5:  0.5116
+Hits@10:  0.5116
+Hits@20:  0.5116
+auc:  0.5098
+
+
+Score for iteration 24300
+Hits@1:  0.5075
+Hits@3:  0.5111
+Hits@5:  0.5111
+Hits@10:  0.5111
+Hits@20:  0.5111
+auc:  0.5093
+
+
+Score for iteration 24400
+Hits@1:  0.5074
+Hits@3:  0.5106
+Hits@5:  0.5106
+Hits@10:  0.5106
+Hits@20:  0.5106
+auc:  0.5090
+
+
+Score for iteration 24500
+Hits@1:  0.5078
+Hits@3:  0.5107
+Hits@5:  0.5107
+Hits@10:  0.5107
+Hits@20:  0.5107
+auc:  0.5092
+
+
+Score for iteration 24600
+Hits@1:  0.5075
+Hits@3:  0.5109
+Hits@5:  0.5109
+Hits@10:  0.5109
+Hits@20:  0.5109
+auc:  0.5092
+
+
+Score for iteration 24700
+Hits@1:  0.5068
+Hits@3:  0.5102
+Hits@5:  0.5102
+Hits@10:  0.5102
+Hits@20:  0.5102
+auc:  0.5085
+
+
+Score for iteration 24800
+Hits@1:  0.5075
+Hits@3:  0.5100
+Hits@5:  0.5100
+Hits@10:  0.5100
+Hits@20:  0.5100
+auc:  0.5088
+
+
+Score for iteration 24900
+Hits@1:  0.5078
+Hits@3:  0.5106
+Hits@5:  0.5106
+Hits@10:  0.5106
+Hits@20:  0.5106
+auc:  0.5092
+
+
+Score for iteration 25000
+Hits@1:  0.5078
+Hits@3:  0.5105
+Hits@5:  0.5105
+Hits@10:  0.5105
+Hits@20:  0.5105
+auc:  0.5092
+
+
+Score for iteration 25100
+Hits@1:  0.5079
+Hits@3:  0.5108
+Hits@5:  0.5108
+Hits@10:  0.5108
+Hits@20:  0.5108
+auc:  0.5093
+
+
+Score for iteration 25200
+Hits@1:  0.5081
+Hits@3:  0.5112
+Hits@5:  0.5112
+Hits@10:  0.5112
+Hits@20:  0.5112
+auc:  0.5096
+
+
+Score for iteration 25300
+Hits@1:  0.5082
+Hits@3:  0.5114
+Hits@5:  0.5114
+Hits@10:  0.5114
+Hits@20:  0.5114
+auc:  0.5098
+
+
+Score for iteration 25400
+Hits@1:  0.5078
+Hits@3:  0.5104
+Hits@5:  0.5104
+Hits@10:  0.5104
+Hits@20:  0.5104
+auc:  0.5091
+
+
+Score for iteration 25500
+Hits@1:  0.5079
+Hits@3:  0.5104
+Hits@5:  0.5104
+Hits@10:  0.5104
+Hits@20:  0.5104
+auc:  0.5091
+
+
+Score for iteration 25600
+Hits@1:  0.5076
+Hits@3:  0.5106
+Hits@5:  0.5106
+Hits@10:  0.5106
+Hits@20:  0.5106
+auc:  0.5091
+
+
+Score for iteration 25700
+Hits@1:  0.5083
+Hits@3:  0.5108
+Hits@5:  0.5108
+Hits@10:  0.5108
+Hits@20:  0.5108
+auc:  0.5095
+
+
+Score for iteration 25800
+Hits@1:  0.5082
+Hits@3:  0.5104
+Hits@5:  0.5104
+Hits@10:  0.5104
+Hits@20:  0.5104
+auc:  0.5093
+
+
+Score for iteration 25900
+Hits@1:  0.5082
+Hits@3:  0.5108
+Hits@5:  0.5108
+Hits@10:  0.5108
+Hits@20:  0.5108
+auc:  0.5095
+
+
+Score for iteration 26000
+Hits@1:  0.5074
+Hits@3:  0.5102
+Hits@5:  0.5102
+Hits@10:  0.5102
+Hits@20:  0.5102
+auc:  0.5088
+
+
+Score for iteration 26100
+Hits@1:  0.5048
+Hits@3:  0.5062
+Hits@5:  0.5062
+Hits@10:  0.5062
+Hits@20:  0.5062
+auc:  0.5055
+
+
+Score for iteration 26200
+Hits@1:  0.5042
+Hits@3:  0.5062
+Hits@5:  0.5062
+Hits@10:  0.5062
+Hits@20:  0.5062
+auc:  0.5052
+
+
+Score for iteration 26300
+Hits@1:  0.5041
+Hits@3:  0.5064
+Hits@5:  0.5064
+Hits@10:  0.5064
+Hits@20:  0.5064
+auc:  0.5052
+
+
+Score for iteration 26400
+Hits@1:  0.5044
+Hits@3:  0.5064
+Hits@5:  0.5064
+Hits@10:  0.5064
+Hits@20:  0.5064
+auc:  0.5054
+
+
+Score for iteration 26500
+Hits@1:  0.5062
+Hits@3:  0.5096
+Hits@5:  0.5096
+Hits@10:  0.5096
+Hits@20:  0.5096
+auc:  0.5079
+
+
+Score for iteration 26600
+Hits@1:  0.5067
+Hits@3:  0.5102
+Hits@5:  0.5102
+Hits@10:  0.5102
+Hits@20:  0.5102
+auc:  0.5084
+
+
+Score for iteration 26700
+Hits@1:  0.5011
+Hits@3:  0.5074
+Hits@5:  0.5074
+Hits@10:  0.5074
+Hits@20:  0.5074
+auc:  0.5043
+
+
+Score for iteration 26800
+Hits@1:  0.5023
+Hits@3:  0.5053
+Hits@5:  0.5053
+Hits@10:  0.5053
+Hits@20:  0.5053
+auc:  0.5038
+
+
+Score for iteration 26900
+Hits@1:  0.5027
+Hits@3:  0.5053
+Hits@5:  0.5053
+Hits@10:  0.5053
+Hits@20:  0.5053
+auc:  0.5040
+
+
+Score for iteration 27000
+Hits@1:  0.5026
+Hits@3:  0.5063
+Hits@5:  0.5063
+Hits@10:  0.5063
+Hits@20:  0.5063
+auc:  0.5044
+
+
+Score for iteration 27100
+Hits@1:  0.5025
+Hits@3:  0.5059
+Hits@5:  0.5059
+Hits@10:  0.5059
+Hits@20:  0.5059
+auc:  0.5042
+
+
+Score for iteration 27200
+Hits@1:  0.5014
+Hits@3:  0.5040
+Hits@5:  0.5040
+Hits@10:  0.5040
+Hits@20:  0.5040
+auc:  0.5027
+
+
+Score for iteration 27300
+Hits@1:  0.5011
+Hits@3:  0.5039
+Hits@5:  0.5039
+Hits@10:  0.5039
+Hits@20:  0.5039
+auc:  0.5025
+
+
+Score for iteration 27400
+Hits@1:  0.5007
+Hits@3:  0.5030
+Hits@5:  0.5030
+Hits@10:  0.5030
+Hits@20:  0.5030
+auc:  0.5018
+
+
+Score for iteration 27500
+Hits@1:  0.5009
+Hits@3:  0.5033
+Hits@5:  0.5033
+Hits@10:  0.5033
+Hits@20:  0.5033
+auc:  0.5021
+
+
+Score for iteration 27600
+Hits@1:  0.5006
+Hits@3:  0.5029
+Hits@5:  0.5029
+Hits@10:  0.5029
+Hits@20:  0.5029
+auc:  0.5017
+
+
+Score for iteration 27700
+Hits@1:  0.5010
+Hits@3:  0.5029
+Hits@5:  0.5029
+Hits@10:  0.5029
+Hits@20:  0.5029
+auc:  0.5020
+
+
+Score for iteration 27800
+Hits@1:  0.5009
+Hits@3:  0.5029
+Hits@5:  0.5029
+Hits@10:  0.5029
+Hits@20:  0.5029
+auc:  0.5019
+
+
+Score for iteration 27900
+Hits@1:  0.5010
+Hits@3:  0.5035
+Hits@5:  0.5035
+Hits@10:  0.5035
+Hits@20:  0.5035
+auc:  0.5023
+
+
+Score for iteration 28000
+Hits@1:  0.5012
+Hits@3:  0.5032
+Hits@5:  0.5032
+Hits@10:  0.5032
+Hits@20:  0.5032
+auc:  0.5022
+
+
+Score for iteration 28100
+Hits@1:  0.5009
+Hits@3:  0.5030
+Hits@5:  0.5030
+Hits@10:  0.5030
+Hits@20:  0.5030
+auc:  0.5020
+
+
+Score for iteration 28200
+Hits@1:  0.5006
+Hits@3:  0.5030
+Hits@5:  0.5030
+Hits@10:  0.5030
+Hits@20:  0.5030
+auc:  0.5018
+
+
+Score for iteration 28300
+Hits@1:  0.5005
+Hits@3:  0.5028
+Hits@5:  0.5028
+Hits@10:  0.5028
+Hits@20:  0.5028
+auc:  0.5017
+
+
+Score for iteration 28400
+Hits@1:  0.5006
+Hits@3:  0.5028
+Hits@5:  0.5028
+Hits@10:  0.5028
+Hits@20:  0.5028
+auc:  0.5017
+
+
+Score for iteration 28500
+Hits@1:  0.5008
+Hits@3:  0.5035
+Hits@5:  0.5035
+Hits@10:  0.5035
+Hits@20:  0.5035
+auc:  0.5021
+
+
+Score for iteration 28600
+Hits@1:  0.5009
+Hits@3:  0.5033
+Hits@5:  0.5033
+Hits@10:  0.5033
+Hits@20:  0.5033
+auc:  0.5021
+
+
+Score for iteration 28700
+Hits@1:  0.5013
+Hits@3:  0.5037
+Hits@5:  0.5037
+Hits@10:  0.5037
+Hits@20:  0.5037
+auc:  0.5025
+
+
+Score for iteration 28800
+Hits@1:  0.5014
+Hits@3:  0.5040
+Hits@5:  0.5040
+Hits@10:  0.5040
+Hits@20:  0.5040
+auc:  0.5027
+
+
+Score for iteration 28900
+Hits@1:  0.5094
+Hits@3:  0.5121
+Hits@5:  0.5121
+Hits@10:  0.5121
+Hits@20:  0.5121
+auc:  0.5108
+
+
+Score for iteration 29000
+Hits@1:  0.5094
+Hits@3:  0.5116
+Hits@5:  0.5116
+Hits@10:  0.5116
+Hits@20:  0.5116
+auc:  0.5105
+
+
+Score for iteration 29100
+Hits@1:  0.5093
+Hits@3:  0.5123
+Hits@5:  0.5123
+Hits@10:  0.5123
+Hits@20:  0.5123
+auc:  0.5108
+
+
+Score for iteration 29200
+Hits@1:  0.5104
+Hits@3:  0.5129
+Hits@5:  0.5129
+Hits@10:  0.5129
+Hits@20:  0.5129
+auc:  0.5116
+
+
+Score for iteration 29300
+Hits@1:  0.5102
+Hits@3:  0.5129
+Hits@5:  0.5129
+Hits@10:  0.5129
+Hits@20:  0.5129
+auc:  0.5116
+
+
+Score for iteration 29400
+Hits@1:  0.5100
+Hits@3:  0.5126
+Hits@5:  0.5126
+Hits@10:  0.5126
+Hits@20:  0.5126
+auc:  0.5113
+
+
+Score for iteration 29500
+Hits@1:  0.5088
+Hits@3:  0.5118
+Hits@5:  0.5118
+Hits@10:  0.5118
+Hits@20:  0.5118
+auc:  0.5103
+
+
+Score for iteration 29600
+Hits@1:  0.5089
+Hits@3:  0.5118
+Hits@5:  0.5118
+Hits@10:  0.5118
+Hits@20:  0.5118
+auc:  0.5103
+
+
+Score for iteration 29700
+Hits@1:  0.5097
+Hits@3:  0.5119
+Hits@5:  0.5119
+Hits@10:  0.5119
+Hits@20:  0.5119
+auc:  0.5108
+
+
+Score for iteration 29800
+Hits@1:  0.5023
+Hits@3:  0.5050
+Hits@5:  0.5050
+Hits@10:  0.5050
+Hits@20:  0.5050
+auc:  0.5036
+
+
+Score for iteration 29900
+Hits@1:  0.5021
+Hits@3:  0.5052
+Hits@5:  0.5052
+Hits@10:  0.5052
+Hits@20:  0.5052
+auc:  0.5036
+
+
+Score for iteration 30000
+Hits@1:  0.5018
+Hits@3:  0.5053
+Hits@5:  0.5053
+Hits@10:  0.5053
+Hits@20:  0.5053
+auc:  0.5036
+
+
+Score for iteration 30100
+Hits@1:  0.5017
+Hits@3:  0.5051
+Hits@5:  0.5051
+Hits@10:  0.5051
+Hits@20:  0.5051
+auc:  0.5034
+
+
+Score for iteration 30200
+Hits@1:  0.5022
+Hits@3:  0.5053
+Hits@5:  0.5053
+Hits@10:  0.5053
+Hits@20:  0.5053
+auc:  0.5038
+
+
+Score for iteration 30300
+Hits@1:  0.5019
+Hits@3:  0.5041
+Hits@5:  0.5041
+Hits@10:  0.5041
+Hits@20:  0.5041
+auc:  0.5030
+
+
+Score for iteration 30400
+Hits@1:  0.5020
+Hits@3:  0.5046
+Hits@5:  0.5046
+Hits@10:  0.5046
+Hits@20:  0.5046
+auc:  0.5033
+
+
+Score for iteration 30500
+Hits@1:  0.5018
+Hits@3:  0.5063
+Hits@5:  0.5063
+Hits@10:  0.5063
+Hits@20:  0.5063
+auc:  0.5041
+
+
+Score for iteration 30600
+Hits@1:  0.5017
+Hits@3:  0.5046
+Hits@5:  0.5046
+Hits@10:  0.5046
+Hits@20:  0.5046
+auc:  0.5031
+
+
+Score for iteration 30700
+Hits@1:  0.5018
+Hits@3:  0.5041
+Hits@5:  0.5041
+Hits@10:  0.5041
+Hits@20:  0.5041
+auc:  0.5029
+
+
+Score for iteration 30800
+Hits@1:  0.5018
+Hits@3:  0.5046
+Hits@5:  0.5046
+Hits@10:  0.5046
+Hits@20:  0.5046
+auc:  0.5032
+
+
+Score for iteration 30900
+Hits@1:  0.5020
+Hits@3:  0.5044
+Hits@5:  0.5044
+Hits@10:  0.5044
+Hits@20:  0.5044
+auc:  0.5032
+
+
+Score for iteration 31000
+Hits@1:  0.5019
+Hits@3:  0.5044
+Hits@5:  0.5044
+Hits@10:  0.5044
+Hits@20:  0.5044
+auc:  0.5031
+
+
+Score for iteration 31100
+Hits@1:  0.5016
+Hits@3:  0.5038
+Hits@5:  0.5038
+Hits@10:  0.5038
+Hits@20:  0.5038
+auc:  0.5027
+
+
+Score for iteration 31200
+Hits@1:  0.5075
+Hits@3:  0.5097
+Hits@5:  0.5097
+Hits@10:  0.5097
+Hits@20:  0.5097
+auc:  0.5086
+
+
+Score for iteration 31300
+Hits@1:  0.5063
+Hits@3:  0.5083
+Hits@5:  0.5083
+Hits@10:  0.5083
+Hits@20:  0.5083
+auc:  0.5073
+
+
+Score for iteration 31400
+Hits@1:  0.5058
+Hits@3:  0.5082
+Hits@5:  0.5082
+Hits@10:  0.5082
+Hits@20:  0.5082
+auc:  0.5070
+
+
+Score for iteration 31500
+Hits@1:  0.5057
+Hits@3:  0.5090
+Hits@5:  0.5090
+Hits@10:  0.5090
+Hits@20:  0.5090
+auc:  0.5074
+
+
+Score for iteration 31600
+Hits@1:  0.5061
+Hits@3:  0.5083
+Hits@5:  0.5083
+Hits@10:  0.5083
+Hits@20:  0.5083
+auc:  0.5072
+
+
+Score for iteration 31700
+Hits@1:  0.5052
+Hits@3:  0.5076
+Hits@5:  0.5076
+Hits@10:  0.5076
+Hits@20:  0.5076
+auc:  0.5064
+
+
+Score for iteration 31800
+Hits@1:  0.5054
+Hits@3:  0.5076
+Hits@5:  0.5076
+Hits@10:  0.5076
+Hits@20:  0.5076
+auc:  0.5065
+
+
+Score for iteration 31900
+Hits@1:  0.5064
+Hits@3:  0.5089
+Hits@5:  0.5089
+Hits@10:  0.5089
+Hits@20:  0.5089
+auc:  0.5077
+
+
+Score for iteration 32000
+Hits@1:  0.5067
+Hits@3:  0.5092
+Hits@5:  0.5092
+Hits@10:  0.5092
+Hits@20:  0.5092
+auc:  0.5079
+
+
+Score for iteration 32100
+Hits@1:  0.5065
+Hits@3:  0.5093
+Hits@5:  0.5093
+Hits@10:  0.5093
+Hits@20:  0.5093
+auc:  0.5079
+
+
+Score for iteration 32200
+Hits@1:  0.5040
+Hits@3:  0.5065
+Hits@5:  0.5065
+Hits@10:  0.5065
+Hits@20:  0.5065
+auc:  0.5052
+
+
+Score for iteration 32300
+Hits@1:  0.5039
+Hits@3:  0.5059
+Hits@5:  0.5059
+Hits@10:  0.5059
+Hits@20:  0.5059
+auc:  0.5049
+
+
+Score for iteration 32400
+Hits@1:  0.5042
+Hits@3:  0.5064
+Hits@5:  0.5064
+Hits@10:  0.5064
+Hits@20:  0.5064
+auc:  0.5053
+
+
+Score for iteration 32500
+Hits@1:  0.5035
+Hits@3:  0.5060
+Hits@5:  0.5060
+Hits@10:  0.5060
+Hits@20:  0.5060
+auc:  0.5047
+
+
+Score for iteration 32600
+Hits@1:  0.5035
+Hits@3:  0.5063
+Hits@5:  0.5063
+Hits@10:  0.5063
+Hits@20:  0.5063
+auc:  0.5049
+
+
+Score for iteration 32700
+Hits@1:  0.5029
+Hits@3:  0.5054
+Hits@5:  0.5054
+Hits@10:  0.5054
+Hits@20:  0.5054
+auc:  0.5041
+
+
+Score for iteration 32800
+Hits@1:  0.5021
+Hits@3:  0.5053
+Hits@5:  0.5053
+Hits@10:  0.5053
+Hits@20:  0.5053
+auc:  0.5037
+
+
+Score for iteration 32900
+Hits@1:  0.5023
+Hits@3:  0.5053
+Hits@5:  0.5053
+Hits@10:  0.5053
+Hits@20:  0.5053
+auc:  0.5038
+
+
+Score for iteration 33000
+Hits@1:  0.5021
+Hits@3:  0.5054
+Hits@5:  0.5054
+Hits@10:  0.5054
+Hits@20:  0.5054
+auc:  0.5038
+
+
+Score for iteration 33100
+Hits@1:  0.5025
+Hits@3:  0.5047
+Hits@5:  0.5047
+Hits@10:  0.5047
+Hits@20:  0.5047
+auc:  0.5036
+
+
+Score for iteration 33200
+Hits@1:  0.5021
+Hits@3:  0.5049
+Hits@5:  0.5049
+Hits@10:  0.5049
+Hits@20:  0.5049
+auc:  0.5035
+
+
+Score for iteration 33300
+Hits@1:  0.5004
+Hits@3:  0.5017
+Hits@5:  0.5017
+Hits@10:  0.5017
+Hits@20:  0.5017
+auc:  0.5010
+
+
+Score for iteration 33400
+Hits@1:  0.5002
+Hits@3:  0.5017
+Hits@5:  0.5017
+Hits@10:  0.5017
+Hits@20:  0.5017
+auc:  0.5009
+
+
+Score for iteration 33500
+Hits@1:  0.5006
+Hits@3:  0.5021
+Hits@5:  0.5021
+Hits@10:  0.5021
+Hits@20:  0.5021
+auc:  0.5014
+
+
+Score for iteration 33600
+Hits@1:  0.5003
+Hits@3:  0.5021
+Hits@5:  0.5021
+Hits@10:  0.5021
+Hits@20:  0.5021
+auc:  0.5012
+
+
+Score for iteration 33700
+Hits@1:  0.5009
+Hits@3:  0.5026
+Hits@5:  0.5026
+Hits@10:  0.5026
+Hits@20:  0.5026
+auc:  0.5017
+
+
+Score for iteration 33800
+Hits@1:  0.5009
+Hits@3:  0.5028
+Hits@5:  0.5028
+Hits@10:  0.5028
+Hits@20:  0.5028
+auc:  0.5019
+
+
+Score for iteration 33900
+Hits@1:  0.4992
+Hits@3:  0.5011
+Hits@5:  0.5011
+Hits@10:  0.5011
+Hits@20:  0.5011
+auc:  0.5002
+
+
+Score for iteration 34000
+Hits@1:  0.4979
+Hits@3:  0.4999
+Hits@5:  0.4999
+Hits@10:  0.4999
+Hits@20:  0.4999
+auc:  0.4989
+
+
+Score for iteration 34100
+Hits@1:  0.5015
+Hits@3:  0.5030
+Hits@5:  0.5030
+Hits@10:  0.5030
+Hits@20:  0.5030
+auc:  0.5023
+
+
+Score for iteration 34200
+Hits@1:  0.5001
+Hits@3:  0.5013
+Hits@5:  0.5013
+Hits@10:  0.5013
+Hits@20:  0.5013
+auc:  0.5007
+
+
+Score for iteration 34300
+Hits@1:  0.5000
+Hits@3:  0.5016
+Hits@5:  0.5016
+Hits@10:  0.5016
+Hits@20:  0.5016
+auc:  0.5008
+
+
+Score for iteration 34400
+Hits@1:  0.5013
+Hits@3:  0.5031
+Hits@5:  0.5031
+Hits@10:  0.5031
+Hits@20:  0.5031
+auc:  0.5022
+
+
+Score for iteration 34500
+Hits@1:  0.5014
+Hits@3:  0.5028
+Hits@5:  0.5028
+Hits@10:  0.5028
+Hits@20:  0.5028
+auc:  0.5021
+
+
+Score for iteration 34600
+Hits@1:  0.5015
+Hits@3:  0.5029
+Hits@5:  0.5029
+Hits@10:  0.5029
+Hits@20:  0.5029
+auc:  0.5022
+
+
+Score for iteration 34700
+Hits@1:  0.5016
+Hits@3:  0.5030
+Hits@5:  0.5030
+Hits@10:  0.5030
+Hits@20:  0.5030
+auc:  0.5023
+
+
+Score for iteration 34800
+Hits@1:  0.5018
+Hits@3:  0.5032
+Hits@5:  0.5032
+Hits@10:  0.5032
+Hits@20:  0.5032
+auc:  0.5025
+
+
+Score for iteration 34900
+Hits@1:  0.4983
+Hits@3:  0.5000
+Hits@5:  0.5000
+Hits@10:  0.5000
+Hits@20:  0.5000
+auc:  0.4992
+
+
+Score for iteration 35000
+Hits@1:  0.4983
+Hits@3:  0.5002
+Hits@5:  0.5002
+Hits@10:  0.5002
+Hits@20:  0.5002
+auc:  0.4992
+
+
+Score for iteration 35100
+Hits@1:  0.4970
+Hits@3:  0.4987
+Hits@5:  0.4987
+Hits@10:  0.4987
+Hits@20:  0.4987
+auc:  0.4979
+
+
+Score for iteration 35200
+Hits@1:  0.4960
+Hits@3:  0.4975
+Hits@5:  0.4975
+Hits@10:  0.4975
+Hits@20:  0.4975
+auc:  0.4967
+
+
+Score for iteration 35300
+Hits@1:  0.4954
+Hits@3:  0.4973
+Hits@5:  0.4973
+Hits@10:  0.4973
+Hits@20:  0.4973
+auc:  0.4963
+
+
+Score for iteration 35400
+Hits@1:  0.4964
+Hits@3:  0.4984
+Hits@5:  0.4984
+Hits@10:  0.4984
+Hits@20:  0.4984
+auc:  0.4974
+
+
+Score for iteration 35500
+Hits@1:  0.4962
+Hits@3:  0.4981
+Hits@5:  0.4981
+Hits@10:  0.4981
+Hits@20:  0.4981
+auc:  0.4972
+
+
+Score for iteration 35600
+Hits@1:  0.4960
+Hits@3:  0.4980
+Hits@5:  0.4980
+Hits@10:  0.4980
+Hits@20:  0.4980
+auc:  0.4970
+
+
+Score for iteration 35700
+Hits@1:  0.4962
+Hits@3:  0.4980
+Hits@5:  0.4980
+Hits@10:  0.4980
+Hits@20:  0.4980
+auc:  0.4971
+
+
+Score for iteration 35800
+Hits@1:  0.4952
+Hits@3:  0.4970
+Hits@5:  0.4970
+Hits@10:  0.4970
+Hits@20:  0.4970
+auc:  0.4961
+
+
+Score for iteration 35900
+Hits@1:  0.4979
+Hits@3:  0.4997
+Hits@5:  0.4997
+Hits@10:  0.4997
+Hits@20:  0.4997
+auc:  0.4988
+
+
+Score for iteration 36000
+Hits@1:  0.4975
+Hits@3:  0.4991
+Hits@5:  0.4991
+Hits@10:  0.4991
+Hits@20:  0.4991
+auc:  0.4983
+
+
+Score for iteration 36100
+Hits@1:  0.4975
+Hits@3:  0.4991
+Hits@5:  0.4991
+Hits@10:  0.4991
+Hits@20:  0.4991
+auc:  0.4983
+
+
+Score for iteration 36200
+Hits@1:  0.4976
+Hits@3:  0.4997
+Hits@5:  0.4997
+Hits@10:  0.4997
+Hits@20:  0.4997
+auc:  0.4987
+
+
+Score for iteration 36300
+Hits@1:  0.4977
+Hits@3:  0.4995
+Hits@5:  0.4995
+Hits@10:  0.4995
+Hits@20:  0.4995
+auc:  0.4986
+
+
+Score for iteration 36400
+Hits@1:  0.4973
+Hits@3:  0.4994
+Hits@5:  0.4994
+Hits@10:  0.4994
+Hits@20:  0.4994
+auc:  0.4984
+
+
+Score for iteration 36500
+Hits@1:  0.4976
+Hits@3:  0.4994
+Hits@5:  0.4994
+Hits@10:  0.4994
+Hits@20:  0.4994
+auc:  0.4985
+
+
+Score for iteration 36600
+Hits@1:  0.4974
+Hits@3:  0.4995
+Hits@5:  0.4995
+Hits@10:  0.4995
+Hits@20:  0.4995
+auc:  0.4985
+
+
+Score for iteration 36700
+Hits@1:  0.4973
+Hits@3:  0.4989
+Hits@5:  0.4989
+Hits@10:  0.4989
+Hits@20:  0.4989
+auc:  0.4981
+
+
+Score for iteration 36800
+Hits@1:  0.4976
+Hits@3:  0.4988
+Hits@5:  0.4988
+Hits@10:  0.4988
+Hits@20:  0.4988
+auc:  0.4982
+
+
+Score for iteration 36900
+Hits@1:  0.4972
+Hits@3:  0.4987
+Hits@5:  0.4987
+Hits@10:  0.4987
+Hits@20:  0.4987
+auc:  0.4979
+
+
+Score for iteration 37000
+Hits@1:  0.4979
+Hits@3:  0.5001
+Hits@5:  0.5001
+Hits@10:  0.5001
+Hits@20:  0.5001
+auc:  0.4990
+
+
+Score for iteration 37100
+Hits@1:  0.5008
+Hits@3:  0.5019
+Hits@5:  0.5019
+Hits@10:  0.5019
+Hits@20:  0.5019
+auc:  0.5013
+
+
+Score for iteration 37200
+Hits@1:  0.5007
+Hits@3:  0.5020
+Hits@5:  0.5020
+Hits@10:  0.5020
+Hits@20:  0.5020
+auc:  0.5013
+
+
+Score for iteration 37300
+Hits@1:  0.5006
+Hits@3:  0.5019
+Hits@5:  0.5019
+Hits@10:  0.5019
+Hits@20:  0.5019
+auc:  0.5013
+
+
+Score for iteration 37400
+Hits@1:  0.5007
+Hits@3:  0.5019
+Hits@5:  0.5019
+Hits@10:  0.5019
+Hits@20:  0.5019
+auc:  0.5013
+
+
+Score for iteration 37500
+Hits@1:  0.5007
+Hits@3:  0.5021
+Hits@5:  0.5021
+Hits@10:  0.5021
+Hits@20:  0.5021
+auc:  0.5014
+
+
+Score for iteration 37600
+Hits@1:  0.5010
+Hits@3:  0.5021
+Hits@5:  0.5021
+Hits@10:  0.5021
+Hits@20:  0.5021
+auc:  0.5015
+
+
+Score for iteration 37700
+Hits@1:  0.5010
+Hits@3:  0.5022
+Hits@5:  0.5022
+Hits@10:  0.5022
+Hits@20:  0.5022
+auc:  0.5016
+
+
+Score for iteration 37800
+Hits@1:  0.5009
+Hits@3:  0.5022
+Hits@5:  0.5022
+Hits@10:  0.5022
+Hits@20:  0.5022
+auc:  0.5016
+
+
+Score for iteration 37900
+Hits@1:  0.5010
+Hits@3:  0.5022
+Hits@5:  0.5022
+Hits@10:  0.5022
+Hits@20:  0.5022
+auc:  0.5016
+
+
+Score for iteration 38000
+Hits@1:  0.5008
+Hits@3:  0.5018
+Hits@5:  0.5018
+Hits@10:  0.5018
+Hits@20:  0.5018
+auc:  0.5013
+
+
+Score for iteration 38100
+Hits@1:  0.5008
+Hits@3:  0.5018
+Hits@5:  0.5018
+Hits@10:  0.5018
+Hits@20:  0.5018
+auc:  0.5013
+
+
+Score for iteration 38200
+Hits@1:  0.5005
+Hits@3:  0.5017
+Hits@5:  0.5017
+Hits@10:  0.5017
+Hits@20:  0.5017
+auc:  0.5011
+
+
+Score for iteration 38300
+Hits@1:  0.5007
+Hits@3:  0.5021
+Hits@5:  0.5021
+Hits@10:  0.5021
+Hits@20:  0.5021
+auc:  0.5014
+
+
+Score for iteration 38400
+Hits@1:  0.5005
+Hits@3:  0.5021
+Hits@5:  0.5021
+Hits@10:  0.5021
+Hits@20:  0.5021
+auc:  0.5013
+
+
+Score for iteration 38500
+Hits@1:  0.5005
+Hits@3:  0.5019
+Hits@5:  0.5019
+Hits@10:  0.5019
+Hits@20:  0.5019
+auc:  0.5012
+
+
+Score for iteration 38600
+Hits@1:  0.5012
+Hits@3:  0.5023
+Hits@5:  0.5023
+Hits@10:  0.5023
+Hits@20:  0.5023
+auc:  0.5017
+
+
+Score for iteration 38700
+Hits@1:  0.5012
+Hits@3:  0.5019
+Hits@5:  0.5019
+Hits@10:  0.5019
+Hits@20:  0.5019
+auc:  0.5016
+
+
+Score for iteration 38800
+Hits@1:  0.5015
+Hits@3:  0.5025
+Hits@5:  0.5025
+Hits@10:  0.5025
+Hits@20:  0.5025
+auc:  0.5020
+
+
+Score for iteration 38900
+Hits@1:  0.5014
+Hits@3:  0.5026
+Hits@5:  0.5026
+Hits@10:  0.5026
+Hits@20:  0.5026
+auc:  0.5020
+
+
+Score for iteration 39000
+Hits@1:  0.5013
+Hits@3:  0.5024
+Hits@5:  0.5024
+Hits@10:  0.5024
+Hits@20:  0.5024
+auc:  0.5019
+
+
+Score for iteration 39100
+Hits@1:  0.5015
+Hits@3:  0.5024
+Hits@5:  0.5024
+Hits@10:  0.5024
+Hits@20:  0.5024
+auc:  0.5019
+
+
+Score for iteration 39200
+Hits@1:  0.5012
+Hits@3:  0.5022
+Hits@5:  0.5022
+Hits@10:  0.5022
+Hits@20:  0.5022
+auc:  0.5017
+
+
+Score for iteration 39300
+Hits@1:  0.5011
+Hits@3:  0.5022
+Hits@5:  0.5022
+Hits@10:  0.5022
+Hits@20:  0.5022
+auc:  0.5017
+
+
+Score for iteration 39400
+Hits@1:  0.5012
+Hits@3:  0.5021
+Hits@5:  0.5021
+Hits@10:  0.5021
+Hits@20:  0.5021
+auc:  0.5016
+
+
+Score for iteration 39500
+Hits@1:  0.5013
+Hits@3:  0.5022
+Hits@5:  0.5022
+Hits@10:  0.5022
+Hits@20:  0.5022
+auc:  0.5018
+
+
+Score for iteration 39600
+Hits@1:  0.5012
+Hits@3:  0.5024
+Hits@5:  0.5024
+Hits@10:  0.5024
+Hits@20:  0.5024
+auc:  0.5018
+
+
+Score for iteration 39700
+Hits@1:  0.5012
+Hits@3:  0.5022
+Hits@5:  0.5022
+Hits@10:  0.5022
+Hits@20:  0.5022
+auc:  0.5017
+
+
+Score for iteration 39800
+Hits@1:  0.5009
+Hits@3:  0.5022
+Hits@5:  0.5022
+Hits@10:  0.5022
+Hits@20:  0.5022
+auc:  0.5016
+
+
+Score for iteration 39900
+Hits@1:  0.5007
+Hits@3:  0.5017
+Hits@5:  0.5017
+Hits@10:  0.5017
+Hits@20:  0.5017
+auc:  0.5012
+
+
+Score for iteration 40000
+Hits@1:  0.5006
+Hits@3:  0.5018
+Hits@5:  0.5018
+Hits@10:  0.5018
+Hits@20:  0.5018
+auc:  0.5012
+
+
+Test (beam) scores with best model from 
+Hits@1:  0.6364
+Hits@3:  0.6364
+Hits@5:  0.6364
+Hits@10:  0.6364
+Hits@20:  0.6364
+auc:  0.6364
+
+
