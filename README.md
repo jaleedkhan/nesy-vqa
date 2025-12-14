@@ -1,5 +1,7 @@
 # NeSyVQA: Neurosymbolic Visual Qestion Answering via Scene Graph Enrichment
 
+![NeSyVQA](mot.jpg)
+
 ## Requirements
 - Ubuntu 18.04
 - CUDA 10.1
