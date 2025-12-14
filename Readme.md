@@ -25,5 +25,3 @@
 - Generated scene graphs of all images (in Eval_IO/gqa/0_images) in the dataset are saved to Eval_IO/gqa/1_pred_scene_graphs
 - Enriched scene graphs are saved to Eval_IO/gqa/2_enriched_scene_graphs
 - VQA results are saved to Eval_IO/gqa/3_vqa
-
-## We are preparing a comprehensive documentation of the source code with more detailed comments, complete steps to reproduce the results and a backup copy of all the necessary files, which will be formally released on Github with the camera ready version after acceptance of the paper. 
