@@ -16,8 +16,8 @@
 - Preprocessed datasets, precomputed embeddings amnd pretrained networks are available in SSG-VQA/downloads
 
 ## Code
-- [Scene Graph Generation and Enrichment with Evaluation](NeSyVQA/SSG/ssg.ipynb)
-- [Visual Question Answering with Evaluation](NeSyVQA/VQA/vqa.ipynb)
+- [Scene Graph Generation and Enrichment with Evaluation](SSG/ssg.ipynb)
+- [Visual Question Answering with Evaluation](VQA/vqa.ipynb)
 
 ## Directories
 - Scene Graph Generation and Enrichment: NeSyVQA/SSG
