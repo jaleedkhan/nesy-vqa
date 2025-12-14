@@ -22,6 +22,6 @@
 ## Directories
 - Scene Graph Generation and Enrichment: [SSG](SGG)
 - Visual Question Answering: [VQA](VQA) 
-- Generated scene graphs of all images (in [Eval_IO/gqa/0_images](Eval_IO/gqa/0_images)) in the dataset are saved to [Eval_IO/gqa/1_pred_scene_graphs](Eval_IO/gqa/1_pred_scene_graphs) 
-- Enriched scene graphs are saved to Eval_IO/gqa/2_enriched_scene_graphs
-- VQA results are saved to Eval_IO/gqa/3_vqa
+- Generated scene graphs of all images (in [Eval_IO/vg/0_images](Eval_IO/vg/0_images)) in the dataset are saved to [Eval_IO/vg/1_pred_scene_graphs](Eval_IO/vg/1_pred_scene_graphs) 
+- Enriched scene graphs are saved to [Eval_IO/vg/2_enriched_scene_graphs](Eval_IO/vg/2_enriched_scene_graphs)
+- VQA results are saved to [Eval_IO/vg/3_vqa](Eval_IO/vg/3_vqa)
